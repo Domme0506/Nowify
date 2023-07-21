@@ -13,6 +13,10 @@
   padding: var(--spacing-l);
   width: 100%;
 
+.now-playing--active {
+  justify-content: flex-start;
+}
+  
   &__cover,
   &__details {
     padding: var(--spacing-m);
